@@ -1,2 +1,2 @@
-#Hungry Snake Game
-The provided Python code is a classic implementation of the Snake game using the Pygame library. It involves controlling a snake's movement to consume apples, thereby increasing its length. The player scores points for each apple consumed and loses when the snake collides with itself. The game features graphics, sound effects, and keyboard input handling. The code demonstrates object-oriented programming principles and game development techniques in Python.
+Hungry Snake Game :: 
+  The provided Python code is a classic implementation of the Snake game using the Pygame library. It involves controlling a snake's movement to consume apples, thereby increasing its length. The player scores points for each apple consumed and loses when the snake collides with itself. The game features graphics, sound effects, and keyboard input handling. The code demonstrates object-oriented programming principles and game development techniques in Python.
